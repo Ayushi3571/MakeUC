@@ -19,11 +19,9 @@ Welcome to **Accessible Vision**, a project developed during the MakeUC Hackatho
 
 ### Front-end (HTML, Java, Flask)
 
-#### Homepage
+#### Homepage (not currently online)
 
 The homepage provides an overview of the Accessible Vision project and invites users to tap anywhere to begin.
-
-[Code](#) - Insert link to the HTML/Java code
 
 #### Subpage
 
@@ -48,10 +46,9 @@ The back-end processes the captured images, runs YOLOv8 inference, and provides 
 1. Clone the repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Flask application using `python app.py`.
-4. Access the web app through the provided URL.
 
 ## Acknowledgments
 
-This project was developed by [Your Name] during the MakeUC Hackathon. Special thanks to the organizers and sponsors for providing the platform to innovate and create inclusive solutions.
+This project was developed during the MakeUC Hackathon. Special thanks to the organizers and sponsors for providing the platform to innovate and create inclusive solutions.
 
 Feel free to explore the code and contribute to the project. We believe in making technology accessible to everyone! 🌐🔍🔊
